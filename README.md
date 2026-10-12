@@ -4,7 +4,9 @@ Atividade prática de controle de versões em Engenharia de Software
 
 Nome: Mayara Rita e Karina Souza
 
-Curso:Ciência da Computação
+Curso: Ciência da Computação
+
+Professor: KARLSON TELLICIO BEZERRA DE LIMA GUABIRABA
 
 Este repositório tem como objetivo praticar os conceitos de controle de versões estudados na disciplina de Engenharia de Software.
 
